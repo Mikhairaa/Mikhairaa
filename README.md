@@ -1,4 +1,4 @@
-# 💫 About Me:
+## Hi There 👋🏻
 <br>I'm a data enthusiast with a strong passion for uncovering insights and solving problems through data. I'm continuously learning and expanding my skills in data analysis, data visualization, and machine learning. Currently, I'm exploring tools like Python, SQL, and data visualization libraries to better understand and manipulate data. My goal is to leverage data to make informed decisions and contribute to impactful projects. I enjoy working on data-driven challenges, and I'm excited to collaborate with others to solve real-world problems using data.
 
 
